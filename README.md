@@ -6,10 +6,11 @@ A modern, animated landing page built with **HTML**, **Tailwind CSS**, **JavaScr
 
 ## 🚀 Demo
 
-![Hotel Odisej](./ALH_Odisej_exterior_aerial_07-scaled-2880x0.jpg)
 
 
-https://github.com/user-attachments/assets/97f0b3b8-e15b-4381-8348-8b050e8d4533
+
+https://github.com/user-attachments/assets/f49502db-a2be-42e3-b0fb-941843e2902f
+
 
 
 > Set within the verdant pine and oak tree forest of Mljet National Park, Hotel Odisej Mljet comes alive with motion as you scroll.
