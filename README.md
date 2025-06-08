@@ -12,9 +12,6 @@ A modern, animated landing page built with **HTML**, **Tailwind CSS**, **JavaScr
 https://github.com/user-attachments/assets/f49502db-a2be-42e3-b0fb-941843e2902f
 
 
-
-> Set within the verdant pine and oak tree forest of Mljet National Park, Hotel Odisej Mljet comes alive with motion as you scroll.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -52,6 +49,8 @@ https://github.com/user-attachments/assets/f49502db-a2be-42e3-b0fb-941843e2902f
 - **Z-Index Layered Layout**  
   Title text and hero image layered beautifully with Tailwind’s `z-10`, `z-0`.
 
+- **> Set within the verdant pine and oak tree forest of Mljet National Park, Hotel Odisej Mljet comes alive with motion as you scroll.**
+
 ---
 
 ## 📱 Responsive Design
@@ -59,7 +58,11 @@ https://github.com/user-attachments/assets/f49502db-a2be-42e3-b0fb-941843e2902f
 - Fully responsive using Tailwind CSS breakpoints.
 - Icons, buttons, and text scale beautifully across screen sizes.
 
+  
+<img width="342" alt="Screenshot 2025-06-08 at 3 14 07 PM" src="https://github.com/user-attachments/assets/4d12e9de-64bb-4e9d-930e-65d1bf231b47" />
+<img width="1470" alt="Screenshot 2025-06-08 at 3 14 34 PM" src="https://github.com/user-attachments/assets/b6d6f636-bf00-4d1d-970c-d8a0a96604e6" />
+
+
 ---
 
-## 📂 Project Structure
 
